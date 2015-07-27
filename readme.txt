@@ -23,7 +23,7 @@ Spammers have even taken this a step further by triggering events, which of cour
 This plugin is built to stop this, it blocks spam bots before your website loads which not only stops the traffic appearing within Google Analytics but it also saves you Bandwidth.
 The spam bots blocked are pulled from a central database of known bots, this database is updated as new spam bots are found, you also have the option to add your own referrer URL's to block.
 
-> ### Features Include:
+### Features Include:
 > * Central database containing tons of known spam bots 
 > * Ability to add your own custom referrer domains to block 
 > * You can either 301 the spam traffic to another site OR show a 403 error message to spammers 
