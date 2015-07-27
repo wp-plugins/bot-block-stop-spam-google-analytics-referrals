@@ -5,7 +5,7 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Tags: seo, SEO, google, google analytics, google analytics spam, spam, bot block, bot blocker, bot blocking, block bots, semalt, 100dollarsseo
 Requires at least: 3.9
 Tested up to: 4.2.3
-Stable tag: 1.4
+Stable tag: 1.5
 
 Block spam refferals showing in Google Analytics and save bandwidth. Central database of sites, ability to add custom URL's and stats.
 
@@ -38,7 +38,7 @@ seo, SEO, google, google analytics, google analytics spam, spam, bot block, bot 
 
 == Installation ==
 
-1. Upload the `wrd-bot-block` folder to the `/wp-content/plugins/` directory
+1. Upload the `bot block` folder to the `/wp-content/plugins/` directory
 2. Activate the Bot Block plugin through the 'Plugins' menu in WordPress
 3. Configure the plugin by going to the `Bot Block` menu that appears in your admin menu under 'Settings'
 
