@@ -9,7 +9,6 @@ Stable tag: 1.3
 
 Block spam refferals showing in Google Analytics and save bandwidth. Central database of sites, ability to add custom URL's and stats.
 
-
 == Description ==
 
 This plugin has two main functions:
@@ -35,8 +34,7 @@ The spam bots blocked are pulled from a central database of known bots, this dat
 
 
 = Tags =
-seo, SEO, google, google analytics, google analytics spam, spam, bot block, bot blocker, bot blocking, block bots, semalt, 100dollarsseo
-Block spam refferals showing in Google Analytics and save bandwidth. Central database of sites, ability to add custom URL's and stats.
+seo, SEO, google, google analytics, google analytics spam, spam, bot block, bot blocker, bot blocking, block bots, semalt, 100dollarsseo, analytics spam blocker
 
 == Installation ==
 
