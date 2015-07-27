@@ -2,7 +2,7 @@
 /*
 Plugin Name: Bot Block
 Description: Redirects or blocks spam traffic from bots, or any other site.
-Version: 1.2
+Version: 1.3
 Author: Sean & Ricky Dawn
 Author URI: http://www.webresultsdirect.com
 License: GPL v3
@@ -689,7 +689,7 @@ class Bot_Block
 						</table>
 						<?php submit_button(); ?>
 						
-						<a href="http://www.webresultsdirect.com/digital-marketing-agency/google-analytics-consulting-services/" target="_blank"><img src="/wp-content/plugins/bot-block-stop-spam-google-analytics-referrals/analyticsbanner.png"></a>
+						<a href="http://www.webresultsdirect.com/digital-marketing-agency/google-analytics-consulting-services/?utm_source=BotBlock&utm_medium=plugin&utm_campaign=plugin" target="_blank"><img src="/wp-content/plugins/bot-block-stop-spam-google-analytics-referrals/analyticsbanner.png"></a>
 				</div>
 								<!-- //Right hand side column
 				//
