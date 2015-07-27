@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Bot Block
-Description: Redirects web bots (or traffic from any selected site) to a site of your choosing.
-Version: 1.0.0
+Description: Redirects or blocks spam traffic from bots, or any other site.
+Version: 1.1
 Author: Sean & Ricky Dawn
 Author URI: http://www.webresultsdirect.com
 License: GPL v3
@@ -682,7 +682,7 @@ class Bot_Block
 										Aside from the domains updated from the central database you can also add your own custom domains.
 									</p>
 									<p>
-										Enter one domain per line, no need for http:// - Eg <code>semalt.com</code>.
+										Enter one domain per line, you don't need to add http:// - for example: <code>semalt.com</code>.
 									</p>
 								</td>
 							</tr>
