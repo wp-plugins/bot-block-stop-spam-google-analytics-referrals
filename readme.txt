@@ -5,7 +5,7 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Tags: seo, SEO, google, google analytics, google analytics spam, spam, bot block, bot blocker, bot blocking, block bots, semalt, 100dollarsseo
 Requires at least: 3.9
 Tested up to: 4.2.3
-Stable tag: 1.3
+Stable tag: 1.4
 
 Block spam refferals showing in Google Analytics and save bandwidth. Central database of sites, ability to add custom URL's and stats.
 
@@ -23,14 +23,14 @@ Spammers have even taken this a step further by triggering events, which of cour
 This plugin is built to stop this, it blocks spam bots before your website loads which not only stops the traffic appearing within Google Analytics but it also saves you Bandwidth.
 The spam bots blocked are pulled from a central database of known bots, this database is updated as new spam bots are found, you also have the option to add your own referrer URL's to block.
 
-<strong>Features Include</strong><br>
-*   Central database containing tons of known spam bots
-*   Ability to add your own custom referrer domains to block
-*   You can either 301 the spam traffic to another site OR show a 403 error message to spammers
-*   Full statistics, detailing most blocked bots, total blocks and number of sites in block list
-*   Ability to block all subdomains of a domain e.g. spam.semalt.com
-*   Video showing you how to block 'ghost referrers' (the spam that cannot be blocked since they do not visit your site)
-*   The ability to contribute to our growing list of spam bots
+> ### Features Include:
+> * Central database containing tons of known spam bots 
+> * Ability to add your own custom referrer domains to block 
+> * You can either 301 the spam traffic to another site OR show a 403 error message to spammers 
+> * Full statistics, detailing most blocked bots, total blocks and number of sites in block list 
+> * Ability to block all subdomains of a domain e.g. spam.semalt.com 
+> * Video showing you how to block 'ghost referrers' (the spam that cannot be blocked since they do not visit your site) 
+> * The ability to contribute to our growing list of spam bots 
 
 
 = Tags =
@@ -43,19 +43,19 @@ seo, SEO, google, google analytics, google analytics spam, spam, bot block, bot 
 3. Configure the plugin by going to the `Bot Block` menu that appears in your admin menu under 'Settings'
 
 == Frequently Asked Questions ==
-=I am still seeing spam traffic showing in Analytics=
+= I am still seeing spam traffic showing in Analytics =
 Watch the video within the plugins settings page - to block 100% of the spam traffic it is a 2 step process
 
-=Can I see the full list of blocked sites?=
+= Can I see the full list of blocked sites? =
 Yes go here: http://botblock.rickydawn.com/block_list.php
 
-=Something has gone wrong and my site isn't working=
+= Something has gone wrong and my site isn't working =
 Disable the plugin, if you cannot get into your admin area delete the plugin files via FTP. Then drop us a message on the support page.
 
 == Screenshots ==
 
-1. Plugin settings page
-2. Stats found within plugin
+01. Plugin settings page
+02. Stats found within plugin
 
 == Changelog ==
 
