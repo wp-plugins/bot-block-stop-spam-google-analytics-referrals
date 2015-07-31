@@ -2,7 +2,7 @@
 /*
 Plugin Name: Bot Block
 Description: Redirects or blocks spam traffic from bots, or any other site.
-Version: 1.7
+Version: 1.9
 Author: Sean & Ricky Dawn
 Author URI: http://www.webresultsdirect.com
 License: GPL v3
@@ -39,7 +39,7 @@ function example_admin_notice() {
         /* Check that the user hasn't already clicked to ignore the message */
 	if ( ! get_user_meta($user_id, 'example_ignore_notice') ) {
         echo '<div class="updated"><p>'; 
-        printf(__('Blocking 100&#37; of the Referral Spam is a two step process, please watch the video found on the Bot Block options page under settings. <a href="%1$s">Hide Notice</a>'), '?example_nag_ignore=0');
+        printf(__('Blocking 100&#37; of the Referral Spam is a two step process, please watch the video found on the Bot Block options page found under settings. <a href="%1$s">Hide Notice</a>'), '?example_nag_ignore=0');
         echo "</p></div>";
 	}
 }
