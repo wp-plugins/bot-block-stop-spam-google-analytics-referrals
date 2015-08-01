@@ -5,7 +5,7 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Tags: seo, SEO, google, google analytics, google analytics spam, spam, bot block, bot blocker, bot blocking, block bots, semalt, 100dollarsseo
 Requires at least: 3.9
 Tested up to: 4.2.3
-Stable tag: 1.9
+Stable tag: 2.0
 
 Block spam referrals showing in Google Analytics and save bandwidth. Central database of sites, ability to add custom URL's and stats.
 
@@ -63,5 +63,7 @@ Disable the plugin, if you cannot get into your admin area delete the plugin fil
 1.2 Minor update to fix image in plugin options
 1.8 Added notice to direct people to the second step to block 100% of the referral spam
 1.8 Fixed bug with upgrade notice
+1.9 Minor updates
+2.0 Fixed conflict with loading page plugin
 
 == Upgrade Notice ==
