@@ -5,7 +5,7 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Tags: seo, SEO, google, google analytics, google analytics spam, spam, bot block, bot blocker, bot blocking, block bots, semalt, 100dollarsseo
 Requires at least: 3.9
 Tested up to: 4.2.3
-Stable tag: 2.0
+Stable tag: 2.1
 
 Block spam referrals showing in Google Analytics and save bandwidth. Central database of sites, ability to add custom URL's and stats.
 
