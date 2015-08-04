@@ -2,7 +2,7 @@
 /*
 Plugin Name: Bot Block
 Description: Redirects or blocks spam traffic from bots, or any other site.
-Version: 2.1
+Version: 2.2
 Author: Sean & Ricky Dawn
 Author URI: http://www.webresultsdirect.com
 License: GPL v3
@@ -118,13 +118,13 @@ class Bot_Block
 		//Set update schedule
 		if( wp_next_scheduled( 'bot_block_cron' ) == false )
 		{
-			wp_schedule_event( time(), 'hourly', 'bot_block_cron' );
+			wp_schedule_event( time(), 'daily', 'bot_block_cron' );
 		}
 		
 		//Set post stats schedule
 		if( wp_next_scheduled( 'bot_block_send_stats' ) == false )
 		{
-			wp_schedule_event( time(), 'hourly', 'bot_block_send_stats' );
+			wp_schedule_event( time(), 'daily', 'bot_block_send_stats' );
 		}
 	}
 	
