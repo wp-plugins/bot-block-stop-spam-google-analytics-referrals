@@ -2,7 +2,7 @@
 /*
 Plugin Name: Bot Block
 Description: Redirects or blocks spam traffic from bots, or any other site.
-Version: 1.2.2
+Version: 2.2
 Author: Sean & Ricky Dawn
 Author URI: http://www.webresultsdirect.com
 License: GPL v3
